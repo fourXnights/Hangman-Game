@@ -1,0 +1,8 @@
+rin 100
+bob 400
+leyya 700
+ted 400
+ethan 700
+shithead 200
+rin 900
+Leyya 900
